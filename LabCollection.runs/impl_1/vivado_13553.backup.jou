@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Sep 17 12:05:47 2024
+# Process ID: 13553
+# Current directory: /home/patrick/Workspaces/Study/HardwareSyn/LabCollection/LabCollection.runs/impl_1
+# Command line: vivado -log seven_segment_display_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seven_segment_display_top.tcl -notrace
+# Log file: /home/patrick/Workspaces/Study/HardwareSyn/LabCollection/LabCollection.runs/impl_1/seven_segment_display_top.vdi
+# Journal file: /home/patrick/Workspaces/Study/HardwareSyn/LabCollection/LabCollection.runs/impl_1/vivado.jou
+# Running On        :eos
+# Platform          :EndeavourOS
+# Operating System  :EndeavourOS Linux
+# Processor Detail  :AMD Ryzen 7 5800H with Radeon Graphics
+# CPU Frequency     :3421.369 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :41375 MB
+# Swap memory       :0 MB
+# Total Virtual     :41375 MB
+# Available Virtual :34220 MB
+#-----------------------------------------------------------
+source seven_segment_display_top.tcl -notrace

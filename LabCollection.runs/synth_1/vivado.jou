@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Sep 17 19:55:42 2024
+# Process ID: 147031
+# Current directory: /home/patrick/Workspaces/Study/HardwareSyn/LabCollection/LabCollection.runs/synth_1
+# Command line: vivado -log bcd_converter_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bcd_converter_top.tcl
+# Log file: /home/patrick/Workspaces/Study/HardwareSyn/LabCollection/LabCollection.runs/synth_1/bcd_converter_top.vds
+# Journal file: /home/patrick/Workspaces/Study/HardwareSyn/LabCollection/LabCollection.runs/synth_1/vivado.jou
+# Running On        :eos
+# Platform          :EndeavourOS
+# Operating System  :EndeavourOS Linux
+# Processor Detail  :AMD Ryzen 7 5800H with Radeon Graphics
+# CPU Frequency     :3693.221 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :41375 MB
+# Swap memory       :0 MB
+# Total Virtual     :41375 MB
+# Available Virtual :31130 MB
+#-----------------------------------------------------------
+source bcd_converter_top.tcl -notrace
